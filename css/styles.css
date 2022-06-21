@@ -121,8 +121,8 @@ h1 {
     text-align:left;
     background-color: #e9eba2;
     padding: 20px 10px;
-    margin: auto 100px;
     font-weight: bold;
+    margin-bottom: 100px;
 }
 .listaequipo {
     list-style-type: none;
